@@ -1,3 +1,4 @@
 
-
-Download Link: https://drive.google.com/file/d/1aTHDFqVsd7UzQktb2K78dM6ypWfjuy5f/view?usp=sharing
+In this study, we introduced the CustomBottleneck-VGGNet model, designed specifically for the identification of tomato leaf diseases. Our proposed model was rigorously tested against several classical models, including GoogleNet, MobileNetV2, ResNet50, VGG16, and VGG19, under identical training conditions. The results of these experiments clearly demonstrate the superior performance of CustomBottleneck-VGGNet across various key metrics such as accuracy, precision, recall, and F1-score.
+		 	
+Notably, the CustomBottleneck-VGGNet model achieved a remarkable accuracy of 99.12\% while maintaining computational efficiency, evidenced by its minimal parameter count of just 1.4 million. This efficiency not only makes the model highly effective for real-time applications but also positions it as an ideal solution for deployment in resource-constrained environments where computational resources are limited.
